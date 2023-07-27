@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\dubov\\source\\repos\\HW_2_1\\HW_2_1\\HW_2_1.csproj": {}
+    "C:\\Program Files (x86)steam2\\ДЗ НА GITHUB\\HW_2_1\\HW_2_1\\HW_2_1.csproj": {}
   },
   "projects": {
-    "C:\\Users\\dubov\\source\\repos\\HW_2_1\\HW_2_1\\HW_2_1.csproj": {
+    "C:\\Program Files (x86)steam2\\ДЗ НА GITHUB\\HW_2_1\\HW_2_1\\HW_2_1.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\dubov\\source\\repos\\HW_2_1\\HW_2_1\\HW_2_1.csproj",
+        "projectUniqueName": "C:\\Program Files (x86)steam2\\ДЗ НА GITHUB\\HW_2_1\\HW_2_1\\HW_2_1.csproj",
         "projectName": "HW_2_1",
-        "projectPath": "C:\\Users\\dubov\\source\\repos\\HW_2_1\\HW_2_1\\HW_2_1.csproj",
+        "projectPath": "C:\\Program Files (x86)steam2\\ДЗ НА GITHUB\\HW_2_1\\HW_2_1\\HW_2_1.csproj",
         "packagesPath": "C:\\Users\\dubov\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\dubov\\source\\repos\\HW_2_1\\HW_2_1\\obj\\",
+        "outputPath": "C:\\Program Files (x86)steam2\\ДЗ НА GITHUB\\HW_2_1\\HW_2_1\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\dubov\\AppData\\Roaming\\NuGet\\NuGet.Config",
