@@ -12,7 +12,7 @@ namespace HW_2_1
         public bool Status { get; set; }
         public string ErrorMessage { get; set; }
     }
- 
+
 
 
 }
