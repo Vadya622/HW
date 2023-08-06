@@ -1,0 +1,15 @@
+C:\Program Files (x86)steam2\ДЗ НА GITHUB\HW_3_2\HW_3_2\bin\Debug\net6.0\HW_3_2.exe
+C:\Program Files (x86)steam2\ДЗ НА GITHUB\HW_3_2\HW_3_2\bin\Debug\net6.0\HW_3_2.deps.json
+C:\Program Files (x86)steam2\ДЗ НА GITHUB\HW_3_2\HW_3_2\bin\Debug\net6.0\HW_3_2.runtimeconfig.json
+C:\Program Files (x86)steam2\ДЗ НА GITHUB\HW_3_2\HW_3_2\bin\Debug\net6.0\HW_3_2.dll
+C:\Program Files (x86)steam2\ДЗ НА GITHUB\HW_3_2\HW_3_2\bin\Debug\net6.0\HW_3_2.pdb
+C:\Program Files (x86)steam2\ДЗ НА GITHUB\HW_3_2\HW_3_2\obj\Debug\net6.0\HW_3_2.csproj.AssemblyReference.cache
+C:\Program Files (x86)steam2\ДЗ НА GITHUB\HW_3_2\HW_3_2\obj\Debug\net6.0\HW_3_2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Program Files (x86)steam2\ДЗ НА GITHUB\HW_3_2\HW_3_2\obj\Debug\net6.0\HW_3_2.AssemblyInfoInputs.cache
+C:\Program Files (x86)steam2\ДЗ НА GITHUB\HW_3_2\HW_3_2\obj\Debug\net6.0\HW_3_2.AssemblyInfo.cs
+C:\Program Files (x86)steam2\ДЗ НА GITHUB\HW_3_2\HW_3_2\obj\Debug\net6.0\HW_3_2.csproj.CoreCompileInputs.cache
+C:\Program Files (x86)steam2\ДЗ НА GITHUB\HW_3_2\HW_3_2\obj\Debug\net6.0\HW_3_2.dll
+C:\Program Files (x86)steam2\ДЗ НА GITHUB\HW_3_2\HW_3_2\obj\Debug\net6.0\refint\HW_3_2.dll
+C:\Program Files (x86)steam2\ДЗ НА GITHUB\HW_3_2\HW_3_2\obj\Debug\net6.0\HW_3_2.pdb
+C:\Program Files (x86)steam2\ДЗ НА GITHUB\HW_3_2\HW_3_2\obj\Debug\net6.0\HW_3_2.genruntimeconfig.cache
+C:\Program Files (x86)steam2\ДЗ НА GITHUB\HW_3_2\HW_3_2\obj\Debug\net6.0\ref\HW_3_2.dll
