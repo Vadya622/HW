@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 ﻿using System;
 using System.Threading.Tasks;
 
@@ -44,3 +45,15 @@ class Program
         }
     }
 }
+=======
+﻿namespace HW_3_6
+{
+    internal class Program
+    {
+        static void Main(string[] args)
+        {
+            Console.WriteLine("Hello, World!");
+        }
+    }
+}
+>>>>>>> 32458827b9392806da928206396dfc98e1ce1070
